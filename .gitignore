@@ -1,0 +1,12 @@
+# All log files.
+*.log
+
+# Environments
+.env
+
+# configuration files
+*.config
+
+# VS Code settings
+.vscode/
+
