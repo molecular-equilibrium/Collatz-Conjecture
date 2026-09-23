@@ -13,4 +13,4 @@
 # If the number is odd, multiply 3 and add 1.
 # The sequence will eventually reach 1 according
 # to the hypothesis, but no one has yet to disprove
-# the hypothesis is incorrect.
+# the hypothesis.
