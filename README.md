@@ -10,7 +10,7 @@
 # using a sequence followed by a given set of rules.
 
 # If the number is even, divide by 2.
-# If the number is odd, multiply 3 and add 1.
+# If the number is odd, multiply by 3 and add 1.
 # The sequence will eventually reach 1 according
 # to the hypothesis, but no one has yet to disprove
 # the hypothesis.
